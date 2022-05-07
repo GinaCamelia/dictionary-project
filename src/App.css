@@ -1,3 +1,6 @@
+body {
+  background: linear-gradient(-225deg, #FFFEFF 0%, #D7FFFE 100%);
+}
 .App-header {
   text-align: center;
   margin-top: 10px;
@@ -8,12 +11,6 @@
 .App-footer {
   text-align: center;
   margin-top: 20px
-}
-.App .Meaning {
-  text-align: left;
-}
-.App .Meaning h4 {
-  color: brown;
 }
 .App .Results h2 {
   margin-top: 10px;

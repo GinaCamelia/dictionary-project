@@ -1,0 +1,6 @@
+.Phonetic .text {
+    opacity: 0.5;
+    font-weight: bold;
+    display: block;
+    text-align: left !important;
+}
