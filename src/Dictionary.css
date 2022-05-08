@@ -14,7 +14,6 @@
 .Dictionary .hint {
     color: grey;
     display: flex;
-    margin-left: 16px;
     font-size: 10px;
     margin-top: -5px;
 }
@@ -24,8 +23,8 @@
     font-size: 25px;
     display: block;
     line-height: 29px;
+    margin-left: -4px;
     text-align: left;
-    margin-left: 15px;
     color: grey;
     color: #337475;
 }
@@ -38,4 +37,5 @@
     border: 1px solid #ddd;
     border-radius: 6px;
     width: 100%;
+    margin-left: -18px;
 }

@@ -1,6 +1,6 @@
 .App {
     padding: 60px 0 50px;
-    max-width: 960px;
+    max-width: 900px;
     margin: 0 auto;
 }
 body {
@@ -9,8 +9,8 @@ body {
 .App-header {
   display: block;
   margin: 0 auto;
-  letter-spacing: 20px;
-  max-width: 80%;
+  letter-spacing: 15px;
+  max-width: 100%;
   text-align: center;
   margin-top: 10px;
   margin-bottom: 80px;

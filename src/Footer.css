@@ -1,24 +1,27 @@
-.contact-details {
+.Footer {
+  font-size: 12px;
+}
+.Footer .contact-details {
     text-align: center;
   }
-  .email {
+  .Footer .email {
     color: #347474;
     font-weight: bolder;
   }
-  .instagram {
+  .Footer .instagram {
     color: #347474;
     font-weight: bolder;
   }
-  .link {
+  .Footer .link {
     font-weight: bolder;
     text-decoration: none;
     cursor: pointer;
     color: blue;
   }
-  .link:hover {
+  .Footer .link:hover {
     text-decoration: underline;
   }
-  .link-github {
+  .Footer .link-github {
     display: block;
     text-align: center;
   }
