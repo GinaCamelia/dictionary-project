@@ -1,0 +1,24 @@
+.contact-details {
+    text-align: center;
+  }
+  .email {
+    color: #347474;
+    font-weight: bolder;
+  }
+  .instagram {
+    color: #347474;
+    font-weight: bolder;
+  }
+  .link {
+    font-weight: bolder;
+    text-decoration: none;
+    cursor: pointer;
+    color: blue;
+  }
+  .link:hover {
+    text-decoration: underline;
+  }
+  .link-github {
+    display: block;
+    text-align: center;
+  }

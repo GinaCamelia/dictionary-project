@@ -39,11 +39,11 @@ export default function Dictionary(props) {
         <section>
         <h1>What word do you want to look up?</h1>
         <form onSubmit={handleSearch} >
-        <input type="search" onChange={handleKeywordChange} class="form" />
+        <input type="search" onChange={handleKeywordChange} class="form-control form-control-lg" aria-label="form-control-lg example" placeholder="Search for a word..." />
         </form>
-        <hint>
+        <p class="hint">
             Sugestions: sunset, kayak, forest, tennis...
-        </hint>
+        </p>
         </section>
         <Results results={results} />
     </div>

@@ -1,12 +1,21 @@
+.App {
+    padding: 60px 0 50px;
+    max-width: 960px;
+    margin: 0 auto;
+}
 body {
   background: linear-gradient(-225deg, #FFFEFF 0%, #D7FFFE 100%);
 }
 .App-header {
+  display: block;
+  margin: 0 auto;
+  letter-spacing: 20px;
+  max-width: 80%;
   text-align: center;
   margin-top: 10px;
-  margin-bottom: 10px;
-  font-size: 40px;
-  color:brown;
+  margin-bottom: 80px;
+  font-size: 36px;
+  color:#337475;
 }
 .App-footer {
   text-align: center;
@@ -14,5 +23,5 @@ body {
 }
 .App .Results h2 {
   margin-top: 10px;
-  color: brown
+  color: #337475;
 }
