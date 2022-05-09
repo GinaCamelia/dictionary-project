@@ -1,0 +1,6 @@
+.Photos img {
+    border-radius: 8px;
+    padding: 2px;
+    display: block;
+    margin-bottom: 15px;
+}
